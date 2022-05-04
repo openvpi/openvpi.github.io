@@ -1,0 +1,10 @@
+Version = "1.1.4 (Preview)"
+Date = "2022-05-04"
+Prologue = "本次更新内容如下："
+Items = [
+    "实现联机检查与获取更新",
+    "开放插件市场菜单项",
+    "优化 UI，修复一些 bug"
+]
+Epilogue = "转换器即将开启公测，敬请期待。"
+DownloadLink = "https://openvpi.github.io/home/downloads/opensvip_1.1.4_preview.zip"

@@ -1,0 +1,19 @@
+Version = "1.1.4 (Preview)"
+Date = "2022-05-04"
+Prologue = "本次更新内容如下："
+Items = [
+    "测试更新内容",
+    "测试更新内容",
+    "Test long long long long long long long long long long long update item",
+    "测试更新内容",
+    "测试更新内容",
+    "Test long long long long long long long long long long long update item",
+    "测试更新内容",
+    "测试更新内容",
+    "Test long long long long long long long long long long long update item",
+    "测试更新内容",
+    "测试更新内容",
+    "Test long long long long long long long long long long long update item",
+]
+Epilogue = "测试长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长结语"
+DownloadLink = "https://ace-studio-installer.oss-cn-beijing.aliyuncs.com/ACE_Studio_0.4.0.exe"

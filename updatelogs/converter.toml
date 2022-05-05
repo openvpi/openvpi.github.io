@@ -1,10 +1,9 @@
-Version = "1.1.4 (Preview)"
-Date = "2022-05-04"
-Prologue = "本次更新内容如下："
+Version = "1.2.0"
+Date = "2022-05-05"
+Prologue = "面向未来的歌声合成工程转换器：OpenSVIP 正式开启公测！相比于最后一个预览版本，本次更新内容如下："
 Items = [
-    "实现联机检查与获取更新",
-    "开放插件市场菜单项",
-    "优化 UI，修复一些 bug"
+    "新增了启动时检查更新的选项，默认为开启",
+    "当插件文件夹冲突时，提供强制覆盖安装的选项（而非报错并拒绝安装）",
 ]
-Epilogue = "转换器即将开启公测，敬请期待。"
-DownloadLink = "https://openvpi.github.io/home/downloads/opensvip_1.1.4_preview.zip"
+Epilogue = "感谢各位团队成员为项目作出的贡献！"
+DownloadLink = "https://openvpi.github.io/home/downloads/opensvip_converter_1.2.0.zip"

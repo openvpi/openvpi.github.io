@@ -11,7 +11,7 @@ mkdir "${tmp}"
 cd "${tmp}"
 
 echo "configuring git"
-sudo chmod 755 /home/circleci/.config/git
+sudo chmod 755 /home/circleci/.config
 git config --global user.email "$GH_EMAIL" > /dev/null 2>&1
 git config --global user.name "$GH_NAME" > /dev/null 2>&1
 git init

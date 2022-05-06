@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: cimg/node:12.18    
+      - image: cimg/node:10.21
     steps:
       - checkout
       - restore_cache:

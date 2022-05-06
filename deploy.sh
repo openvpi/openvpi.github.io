@@ -2,7 +2,6 @@
 
 set -e
 
-pwd
 remote=$(git config remote.origin.url)
 echo "Remote: "$remote
 
@@ -25,8 +24,9 @@ else
     git checkout --orphan gh-pages
 fi
 
+echo "Now at: "$(pwd)
 echo "Copying files"
-cp -a "../${GB_SOURCE}/." .
+cp -av "../${GB_SOURCE}/*" .
 
 echo "Add, commit & push"
 git add -A

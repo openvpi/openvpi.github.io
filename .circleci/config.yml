@@ -1,4 +1,4 @@
-version: 2
+version: 2.1
 jobs:
   build:
     docker:
@@ -24,8 +24,8 @@ jobs:
       - run:
           name: Deploy to GitHub Pages
           command: chmod +x deploy.sh && ./deploy.sh
-workflow:
-  build:
+workflows:
+  build-deploy:
     jobs:
       - build:
           filters:

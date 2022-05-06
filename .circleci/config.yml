@@ -5,19 +5,12 @@ jobs:
       - image: billryan/gitbook
     steps:
       - checkout
-      - restore_cache:
-          keys:
-            - "gitbook-plugins"
       - run:
           name: Install gitbook plugins
           command: gitbook install
       - run:
           name: Build website with gitbook
           command: gitbook init && gitbook build
-      - save_cache:
-          paths:
-            - node_modules
-          key: gitbook-plugins
       - persist_to_workspace:
           root: .
           paths:

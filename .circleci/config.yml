@@ -1,6 +1,8 @@
 version: 2
 jobs:
   build:
+    branches:
+      only: main
     docker:
       - image: cimg/node:10.21
     steps:

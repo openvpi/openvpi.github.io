@@ -20,4 +20,4 @@ jobs:
           key: gitbook-plugins
       - run:
           name: Deploy to GitHub Pages
-          command: chmod +x deploy.sh && deploy.sh
+          command: chmod +x deploy.sh && ./deploy.sh

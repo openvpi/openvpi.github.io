@@ -5,4 +5,4 @@
 * [用户手册](docs/manual.md)
 * [开发文档](docs/develop.md)
 * [插件市场](market/summary.md)
-
+* [下载中心](downloads/summary.md)

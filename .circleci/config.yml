@@ -13,7 +13,7 @@ jobs:
 #            - "gitbook-plugins"
       - run:
           name: Install gitbook plugins
-          command: gitbook install  # sudo npm install -g gitbook-cli && gitbook install
+          command: sudo npm install -g gitbook-cli && gitbook install
       - setup_remote_docker:
           docker_layer_caching: true
       - run:

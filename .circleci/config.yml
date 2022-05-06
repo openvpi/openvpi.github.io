@@ -12,8 +12,8 @@ jobs:
           keys:
             - "gitbook-plugins"
       - run:
-          name: Install gitbook and plugins
-          command: sudo npm install -g gitbook-cli && gitbook install
+          name: Install gitbook plugins
+          command: gitbook install
       - run:
           name: Build website with gitbook
           command: gitbook init && gitbook build

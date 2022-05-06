@@ -8,21 +8,19 @@ jobs:
           fingerprints:
             - "d0:70:ec:0d:01:57:e6:ff:f6:ce:9e:17:34:98:72:45"
       - checkout
-#      - restore_cache:
-#          keys:
-#            - "gitbook-plugins"
+      - restore_cache:
+          keys:
+            - "gitbook-plugins"
       - run:
-          name: Install gitbook plugins
+          name: Install gitbook and plugins
           command: sudo npm install -g gitbook-cli && gitbook install
-      - setup_remote_docker:
-          docker_layer_caching: true
       - run:
           name: Build website with gitbook
           command: gitbook init && gitbook build
-#      - save_cache:
-#          paths:
-#            - node_modules
-#          key: gitbook-plugins
+      - save_cache:
+          paths:
+            - node_modules
+          key: gitbook-plugins
       - run:
           name: Deploy to GitHub Pages
           command: sudo chmod +x deploy.sh && ./deploy.sh

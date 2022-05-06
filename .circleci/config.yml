@@ -2,7 +2,7 @@ version: 2.1
 jobs:
   build:
     docker:
-      - image: billryan/gitbook  # cimg/node:10.21
+      - image: cimg/node:10.21
     steps:
       - add_ssh_keys:
           fingerprints:
@@ -13,7 +13,7 @@ jobs:
             - "gitbook-plugins"
       - run:
           name: Install gitbook plugins
-          command: gitbook install # sudo npm install -g gitbook-cli && gitbook install
+          command: sudo npm install -g gitbook-cli && gitbook install
       - run:
           name: Build website with gitbook
           command: gitbook init && gitbook build
@@ -23,7 +23,7 @@ jobs:
           key: gitbook-plugins
       - run:
           name: Deploy to GitHub Pages
-          command: sudo chmod +x deploy.sh && ./deploy.sh
+          command: chmod +x deploy.sh && ./deploy.sh
 workflows:
   build-deploy:
     jobs:

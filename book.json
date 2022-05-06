@@ -21,7 +21,8 @@
     "code",
     "sectionx",
     "flexible-alerts",
-    "ancre-navigation"
+    "ancre-navigation",
+    "pageview-count"
   ],
 
   "pluginsConfig": {

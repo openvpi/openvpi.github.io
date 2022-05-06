@@ -18,11 +18,16 @@ jobs:
           paths:
             - node_modules
           key: gitbook-plugins
+      - persist_to_workspace:
+          root: .
+          paths:
+            - $GB_SOURCE
   deploy:
     docker:
       - image: cimg/base:2022.04
     steps:
-      - checkout
+      - attach_workspace:
+          at: $GB_SOURCE
       - add_ssh_keys:
           fingerprints:
             - "d0:70:ec:0d:01:57:e6:ff:f6:ce:9e:17:34:98:72:45"

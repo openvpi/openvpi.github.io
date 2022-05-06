@@ -1,0 +1,23 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: cimg/node:12.18    
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+            - "gitbook-plugins"
+      - run:
+          name: Install gitbook and plugins
+          command: npm install -g gitbook-cli && gitbook install
+      - run:
+          name: Build website with gitbook
+          command: gitbook init && gitbook build
+      - save_cache:
+          paths:
+            - node_modules
+          key: gitbook-plugins
+      - run:
+          name: Deploy to GitHub Pages
+          command: chmod +x deploy.sh && deploy.sh

@@ -25,7 +25,7 @@ jobs:
           name: Deploy to GitHub Pages
           command: chmod +x deploy.sh && ./deploy.sh
 workflow:
-  build-deploy:
+  build:
     jobs:
       - build:
           filters:

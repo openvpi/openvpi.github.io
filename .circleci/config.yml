@@ -30,4 +30,5 @@ workflow:
       - build:
           filters:
             branches:
-              only: main
+              only:
+                - main

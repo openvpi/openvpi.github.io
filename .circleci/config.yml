@@ -27,9 +27,6 @@ jobs:
           fingerprints:
             - "d0:70:ec:0d:01:57:e6:ff:f6:ce:9e:17:34:98:72:45"
       - run:
-          name: List files
-          command: ls -l
-      - run:
           name: Deploy to GitHub Pages
           command: sudo chmod +x deploy.sh && ./deploy.sh
 workflows:

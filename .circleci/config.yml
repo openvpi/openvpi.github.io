@@ -2,7 +2,7 @@ version: 2.1
 jobs:
   build:
     docker:
-      - image: cimg/node:10.21
+      - image: billryan/gitbook  # cimg/node:10.21
     steps:
       - add_ssh_keys:
           fingerprints:
@@ -12,8 +12,8 @@ jobs:
           keys:
             - "gitbook-plugins"
       - run:
-          name: Install gitbook and plugins
-          command: sudo npm install -g gitbook-cli && gitbook install
+          name: Install gitbook plugins
+          command: gitbook install # sudo npm install -g gitbook-cli && gitbook install
       - run:
           name: Build website with gitbook
           command: gitbook init && gitbook build

@@ -4,9 +4,6 @@ jobs:
     docker:
       - image: billryan/gitbook
     steps:
-      - add_ssh_keys:
-          fingerprints:
-            - "d0:70:ec:0d:01:57:e6:ff:f6:ce:9e:17:34:98:72:45"
       - checkout
       - restore_cache:
           keys:
@@ -25,6 +22,10 @@ jobs:
     docker:
       - image: cimg/base:2022.04
     steps:
+      - checkout
+      - add_ssh_keys:
+          fingerprints:
+            - "d0:70:ec:0d:01:57:e6:ff:f6:ce:9e:17:34:98:72:45"
       - run:
           name: Deploy to GitHub Pages
           command: sudo chmod +x deploy.sh && ./deploy.sh

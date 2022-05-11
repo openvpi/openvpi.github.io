@@ -1,9 +1,11 @@
-Version = "1.2.0"
-Date = "2022-05-05"
-Prologue = "面向未来的歌声合成工程转换器：OpenSVIP 正式开启公测！相比于最后一个预览版本，本次更新内容如下："
+Version = "1.2.1"
+Date = "2022-05-11"
+Prologue = ""
 Items = [
-    "新增了启动时检查更新的选项，默认为开启",
-    "当插件文件夹冲突时，提供强制覆盖安装的选项（而非报错并拒绝安装）",
+    "支持插件热更新：安装后可直接使用，无需重启应用",
+    "尝试修复部分情况下后台残留进程无法正常退出的 bug",
+    "应用内的部分跳转链接更新以及一些 UI 小优化",
+    "MIDI 插件更新提醒[1]：新增“将半元音音符向前偏移”选项，以应对某些引擎[2]的元音拖拍问题",
 ]
-Epilogue = "感谢各位团队成员为项目作出的贡献！"
-DownloadLink = "https://openvpi.github.io/home/downloads/opensvip_converter_1.2.0.zip"
+Epilogue = "欢迎加入转换器反馈交流 QQ 群：687772360\n[1] 由于当前未实现插件检查更新，故将插件更新信息并入应用本体更新提示日志。此项仅为提醒，如有需要请点击菜单栏“转换-插件市场”下载安装。\n[2] 特指某内测中的 PC 端破自行车。"
+DownloadLink = "https://openvpi.github.io/home/downloads/opensvip_converter_1.2.1.zip"

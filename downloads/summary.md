@@ -17,7 +17,7 @@
 |  svip  |   X Studio 工程文件 (*.svip)   |    [YQ之神](https://space.bilibili.com/102844209)     | 1.1.2 |  2022.04.28  | [下载链接](https://openvpi.github.io/home/downloads/opensvip_plugin_binsvip_1.1.2.zip) |
 |  svp   | Synthesizer V 工程文件 (*.svp) |    [YQ之神](https://space.bilibili.com/102844209)     | 1.7.0 |  2022.05.03  | [下载链接](https://openvpi.github.io/home/downloads/opensvip_plugin_synthv_1.7.0.zip) |
 |   gj   |    歌叽歌叽工程文件 (*.gj)     | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 1.6.0 |  2022.05.13  | [下载链接](https://openvpi.github.io/home/downloads/opensvip_plugin_gjgj_1.6.0.zip) |
-|  midi  |       MIDI 文件 (*.mid)        | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 0.3.0 |  2022.05.11  | [下载链接](https://openvpi.github.io/home/downloads/opensvip_plugin_midi_0.3.0.zip) |
+|  midi  |       MIDI 文件 (*.mid)        | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 0.3.2 |  2022.05.18  | [下载链接](https://openvpi.github.io/home/downloads/opensvip_plugin_midi_0.3.2.zip) |
 |  vog   | Project Vogen 工程文件 (*.vog) | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 0.3.2 |  2022.05.07  | [下载链接](https://openvpi.github.io/home/downloads/opensvip_plugin_vogen_0.3.2.zip) |
 |  y77   |     元七七工程文件 (*.y77)     | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 1.0.0 |  2022.05.04  | [下载链接](https://openvpi.github.io/home/downloads/opensvip_plugin_y77_1.0.0.zip) |
 |  json  |  OpenSVIP Model 文件 (*.json)  |    [YQ之神](https://space.bilibili.com/102844209)     | 1.0.0 |  2022.04.22  | [下载链接](https://openvpi.github.io/home/downloads/opensvip_plugin_jsonsvip_1.0.0.zip) |

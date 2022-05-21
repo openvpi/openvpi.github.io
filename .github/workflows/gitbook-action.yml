@@ -16,4 +16,4 @@ jobs:
         token: ${{ secrets.PERSONAL_TOKEN }}
         time_zone: Asia/Shanghai
         source_edit_time: true
-        publish_commit_message: Gitbook Action Build
+        publish_commit_message: ${{ github.event.head_commit.message }}

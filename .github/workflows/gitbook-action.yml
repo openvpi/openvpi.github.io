@@ -1,4 +1,4 @@
-name: 'Gitbook Action Build'
+name: gitbook-action-build
 on:
   push:
     branches:
@@ -16,3 +16,4 @@ jobs:
         token: ${{ secrets.PERSONAL_TOKEN }}
         time_zone: Asia/Shanghai
         source_edit_time: true
+        publish_commit_message: ${{ github.event.head_commit.message }}

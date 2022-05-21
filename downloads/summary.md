@@ -14,7 +14,7 @@
 
 | 标识符 |            适用格式            |                         作者                          | 版本  | 最后更新日期 |                           下载链接                           |
 | :----: | :----------------------------: | :---------------------------------------------------: | :---: | :----------: | :----------------------------------------------------------: |
-|  svip  |   X Studio 工程文件 (*.svip)   |    [YQ之神](https://space.bilibili.com/102844209)     | 1.1.2 |  2022.04.28  | [下载链接](https://openvpi.github.io/home/downloads/opensvip_plugin_binsvip_1.1.2.zip) |
+|  svip  |   X Studio 工程文件 (*.svip)   |    [YQ之神](https://space.bilibili.com/102844209)     | 1.1.3 |  2022.05.21  | [下载链接](https://openvpi.github.io/home/downloads/opensvip_plugin_binsvip_1.1.3.zip) |
 |  svp   | Synthesizer V 工程文件 (*.svp) |    [YQ之神](https://space.bilibili.com/102844209)     | 1.8.0 |  2022.05.21  | [下载链接](https://openvpi.github.io/home/downloads/opensvip_plugin_synthv_1.8.0.zip) |
 |   gj   |    歌叽歌叽工程文件 (*.gj)     | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 1.6.0 |  2022.05.13  | [下载链接](https://openvpi.github.io/home/downloads/opensvip_plugin_gjgj_1.6.0.zip) |
 |  midi  |       MIDI 文件 (*.mid)        | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 0.3.2 |  2022.05.18  | [下载链接](https://openvpi.github.io/home/downloads/opensvip_plugin_midi_0.3.2.zip) |

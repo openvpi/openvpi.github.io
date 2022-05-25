@@ -1,0 +1,19 @@
+name: gitbook-action-build
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Action
+      uses: actions/checkout@v2
+    - name: Gitbook Action
+      uses: ZanderZhao/gitbook-action@v1.2.4
+      with:
+        source_branch: main
+        token: ${{ secrets.PERSONAL_TOKEN }}
+        time_zone: Asia/Shanghai
+        source_edit_time: true
+        publish_commit_message: Gitbook Action Build  # ${{ github.event.head_commit.message }}

@@ -10,22 +10,31 @@
     "-lunr","-search",
     "-sharing",
     "-default-theme",
-    "search-pro",
+    "github",
+    "search-pro-fixed",
     "theme-comscore",
     "splitter",
+    "intopic-toc",
     "tbfed-pagefooter",
+    "back-to-top-button",
     "expandable-chapters",
     "hide-element",
     "custom-favicon",
-    "-highlight","prism","prism-themes",
-    "code",
-    "sectionx",
     "flexible-alerts",
-    "ancre-navigation",
-    "pageview-count"
+    "-highlight", "prism", "prism-themes",
+    "code"
   ],
 
   "pluginsConfig": {
+    "github": {
+        "url": "https://github.com/yqzhishen/opensvip"
+    },
+
+    "intopic-toc": {
+      "label": "目录",
+      "isCollapsed": false
+    },
+
     "tbfed-pagefooter": {
       "copyright":"Copyright &copy Team OpenVPI 2022",
       "modify_label": "该文件修订时间：",
@@ -37,6 +46,21 @@
     },
 
     "favicon": "favicon.ico",
+
+    "flexible-alerts": {
+      "note": {
+        "label": "说明"
+      },
+      "tip": {
+        "lebel": "提示"
+      },
+      "warning": {
+        "label": "警告"
+      },
+      "danger": {
+        "label": "危险"
+      }
+    },
 
     "pdf": {
       "pageNumbers": true,
@@ -50,17 +74,16 @@
         "bottom": 56
       }
     },
+
     "page-toc-button": {
       "maxTocDepth": 2,
       "minTocSize": 2
     },
+
     "prism":{
       "css":[
         "prism-themes/themes/prism-darcula.css"
       ]
-    },
-    "sectionx": {
-      "tag": "b"
     }
   },
 

@@ -26,8 +26,9 @@ isTocVisible: false
 |  y77   |     元七七工程文件 (*.y77)     | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 1.0.0 |  2022.05.04  | [下载链接](https://openvpi.github.io/home/downloads/opensvip_plugin_y77_1.0.0.zip) |
 |  json  |  OpenSVIP Model 文件 (*.json)  |    [YQ之神](https://space.bilibili.com/102844209)     | 1.0.0 |  2022.04.22  | [下载链接](https://openvpi.github.io/home/downloads/opensvip_plugin_jsonsvip_1.0.0.zip) |
 
+> **[!NOTE]**
+>
+> 此处仅提供各插件的最新版本下载。如果在转换过程中**出现错误**或**下载速度慢**，请尝试访问[版本仓库](https://share.weiyun.com/yMDgO6sz)，该处可下载所有插件的最新以及历史版本。
+>
+> 若转换时发生错误，将对应的插件回退至上一个版本可能可以暂时解决问题。同时，建议使用上面的联系方式向插件作者反馈情况，以便及时修复。要查看各个版本的更新日志，请参阅[插件市场](../market/summary.md)分栏下对应插件的说明文档。
 
-
-<hr/>
-
-无法访问或需下载往期版本？[访问版本仓库](https://share.weiyun.com/yMDgO6sz)

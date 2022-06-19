@@ -2,9 +2,9 @@
 
 适用格式：Project Vogen 工程文件 (*.vog)
 
-版本：0.3.2
+版本：0.4.0
 
-最后更新日期：2022.05.07
+最后更新日期：2022.06.19
 
 作者：[笛鹿FlutyDeer](https://space.bilibili.com/386270936)
 

@@ -8,9 +8,9 @@ isTocVisible: false
 
 ## OpenSVIP 转换器
 
-最新版本 v1.2.3：[下载链接](https://openvpi.github.io/home/downloads/opensvip_converter_1.2.3.zip)
+最新版本 v1.3.0：[下载链接](https://openvpi.github.io/home/downloads/opensvip_converter_1.3.0.zip)
 
-备用版本 v1.2.2：[下载链接](https://openvpi.github.io/home/downloads/opensvip_converter_1.2.2.zip)
+备用版本 v1.2.3：[下载链接](https://openvpi.github.io/home/downloads/opensvip_converter_1.2.3.zip)
 
 
 

@@ -1,7 +1,6 @@
 Version = "1.1.6"
-RequiredFrameworkVersion = 1.0.0
+RequiredFrameworkVersion = "1.0.0"
 Date = "2022-05-30"
-RequiredFrameworkVersion = 1.0.0
 Prologue = ""
 Items = [
     "修复了一个导致所有人都转换失败的愚蠢 bug",

@@ -1,5 +1,5 @@
 Version = "1.0.0"
-RequiredFrameworkVersion = 1.0.0
+RequiredFrameworkVersion = "1.0.0"
 Date = "2022-05-06"
 Prologue = "随转换器公测发布"
 Items = [

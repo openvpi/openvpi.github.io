@@ -1,9 +1,9 @@
-Version = "1.8.3-fake"
-RequiredFrameworkVersion = "1.3.0"
-Date = "2022-06-27"
-Prologue = "测试插件更新"
+Version = "1.8.3"
+RequiredFrameworkVersion = 1.0.0
+Date = "2022-06-21"
+Prologue = ""
 Items = [
-    "测试插件更新",
+    "修复了部分 svp 工程存在负坐标音符导致转换失败的 bug",
 ]
-Epilogue = "测试插件更新"
+Epilogue = ""
 DownloadLink = "https://openvpi.github.io/home/downloads/opensvip_plugin_synthv_1.8.3.zip"

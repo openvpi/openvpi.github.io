@@ -1,0 +1,8 @@
+Version = "1.8.4-fake"
+Date = "2022-06-27"
+Prologue = "测试插件更新"
+Items = [
+    "测试插件更新",
+]
+Epilogue = "测试插件更新"
+DownloadLink = "https://openvpi.github.io/home/downloads/opensvip_plugin_synthv_1.8.3.zip"

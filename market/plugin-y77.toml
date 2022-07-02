@@ -1,0 +1,9 @@
+Version = "1.0.0"
+RequiredFrameworkVersion = "1.0.0"
+Date = "2022-05-04"
+Prologue = "随转换器公测发布"
+Items = [
+
+]
+Epilogue = ""
+DownloadLink = "https://openvpi.github.io/home/downloads/opensvip_plugin_y77_1.0.0.zip"

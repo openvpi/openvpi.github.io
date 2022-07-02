@@ -1,0 +1,9 @@
+Version = "0.4.0"
+RequiredFrameworkVersion = "1.0.0"
+Date = "2022-06-19"
+Prologue = ""
+Items = [
+    "1.支持指定歌手。",
+]
+Epilogue = ""
+DownloadLink = "https://openvpi.github.io/home/downloads/opensvip_plugin_vogen_0.4.0.zip"

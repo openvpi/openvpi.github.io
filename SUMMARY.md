@@ -12,5 +12,6 @@
     * [Project Vogen 工程文件](market/plugin-vog.md)
     * [元七七工程文件](market/plugin-y77.md)
     * [OpenSVIP Model 文件](market/plugin-json.md)
+    * [LRC 歌词文件](market/plugin-lrc.md)
 * [下载中心](downloads/summary.md)
 

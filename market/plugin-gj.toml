@@ -1,0 +1,9 @@
+Version = "1.7.1"
+RequiredFrameworkVersion = "1.3.0"
+Date = "2022-07-02"
+Prologue = ""
+Items = [
+    "输出选项的默认歌手新增“超越AI”的选项",
+]
+Epilogue = ""
+DownloadLink = "https://openvpi.github.io/home/downloads/opensvip_plugin_gjgj_1.7.1.zip"

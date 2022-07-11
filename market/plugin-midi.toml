@@ -1,11 +1,9 @@
-Version = "0.7.0"
+Version = "0.7.1"
 RequiredFrameworkVersion = "1.0.0"
-Date = "2022-06-19"
+Date = "2022-07-11"
 Prologue = ""
 Items = [
-    "新增多通道导入选项。对于一条轨道内有多个不同通道音符的情况，可以选择仅导入首条通道、全部拆分为轨道和自定义导入范围。",
-    "半元音前移量的选项升级为拖拍前移补偿量，生效范围扩展到y-、w-、a-、o- 和 e-。",
-    "调整了部分文案。",
+    "修复特定情况下曲速转换错误的问题",
 ]
 Epilogue = ""
-DownloadLink = "https://openvpi.github.io/home/downloads/opensvip_plugin_midi_0.7.0.zip"
+DownloadLink = "https://openvpi.github.io/home/downloads/opensvip_plugin_midi_0.7.1.zip"

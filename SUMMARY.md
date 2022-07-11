@@ -13,4 +13,5 @@
     * [元七七工程文件](market/plugin-y77.md)
     * [OpenSVIP Model 文件](market/plugin-json.md)
 * [下载中心](downloads/summary.md)
+* [开源声明](license.md)
 

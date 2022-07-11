@@ -4,6 +4,8 @@ isTocVisible: false
 
 # 下载中心
 
+下载使用前，建议您阅读本项目的[开源声明](../license.md)。
+
 
 
 ## OpenSVIP 转换器

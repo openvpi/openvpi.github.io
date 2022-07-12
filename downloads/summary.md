@@ -28,6 +28,7 @@ isTocVisible: false
 |  y77   |     元七七工程文件 (*.y77)     | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 1.0.0 |  2022.05.04  | [下载链接](https://openvpi.github.io/home/downloads/opensvip_plugin_y77_1.0.0.zip) |
 |  json  |  OpenSVIP Model 文件 (*.json)  |    [YQ之神](https://space.bilibili.com/102844209)     | 1.0.0 |  2022.04.22  | [下载链接](https://openvpi.github.io/home/downloads/opensvip_plugin_jsonsvip_1.0.0.zip) |
 |  lrc   |      LRC 歌词文件 (*.lrc)      | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 0.0.1 |  2022.07.05  | [下载链接](https://openvpi.github.io/home/downloads/opensvip_plugin_lrc_0.0.1.zip) |
+|  ace   |  ACE Studio 工程文件 (*.acep)  |    [YQ之神](https://space.bilibili.com/102844209)     | 0.5.0 |  2022.07.12  |            [查看许可证](../market/plugin-ace.md)             |
 
 > **[!NOTE]**
 >

@@ -6,4 +6,4 @@ Items = [
     "修复了一个导致所有人都转换失败的愚蠢 bug",
 ]
 Epilogue = "在此为没有做好测试工作向所有受影响的用户表示由衷的歉意。"
-DownloadLink = "https://openvpi.github.io/home/downloads/opensvip_plugin_binsvip_1.1.6.zip"
+DownloadLink = "https://openvpi.github.io/downloads/opensvip_plugin_binsvip_1.1.6.zip"

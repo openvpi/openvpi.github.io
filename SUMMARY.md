@@ -1,9 +1,9 @@
 # Summary
 
-* [简介](README.md)
-    * [更新日志](updatelogs/summary.md)
+* [首页](README.md)
 * [用户手册](docs/manual.md)
 * [开发文档](docs/develop.md)
+* [更新日志](updatelogs/summary.md)
 * [插件市场](market/summary.md)
     * [X Studio 工程文件](market/plugin-svip.md)
     * [Synthesizer V 工程文件](market/plugin-svp.md)

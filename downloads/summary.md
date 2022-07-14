@@ -14,6 +14,10 @@ isTocVisible: false
 
 备用版本 v1.3.0：[下载链接](https://openvpi.github.io/downloads/opensvip_converter_1.3.0.zip)
 
+注意：仅支持 Windows 7 及以上操作系统（需要 .NET Framework 4.7.2，Windows 10+ 通常已自带）
+
+使用方法：解压并运行 OpenSvip.GUI.exe
+
 
 
 ## OpenSVIP 插件

@@ -34,6 +34,8 @@ isTocVisible: false
 |  lrc   |      LRC 歌词文件 (*.lrc)      | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 0.0.1 |  2022.07.05  | [下载链接](https://openvpi.github.io/downloads/opensvip_plugin_lrc_0.0.1.zip) |
 |  ace   |  ACE Studio 工程文件 (*.acep)  |    [YQ之神](https://space.bilibili.com/102844209)     | 0.5.0 |  2022.07.12  |            [查看许可证](../market/plugin-ace.md)             |
 
+安装方式：在转换器菜单栏中点击“转换>安装插件”，选择相应的插件压缩包，随后根据指引操作。（请勿直接解压插件压缩包！）
+
 > **[!NOTE]**
 >
 > 此处仅提供各插件的最新版本下载。如果在转换过程中**出现错误**或**下载速度慢**，请尝试访问[版本仓库](https://share.weiyun.com/yMDgO6sz)，该处可下载所有插件的最新以及历史版本。

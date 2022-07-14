@@ -1,8 +1,9 @@
 # Summary
 
 * [首页](README.md)
-* [用户手册](docs/manual.md)
-* [开发文档](docs/develop.md)
+* [用户指南](docs/guide.md)
+* [常见问题](docs/faq.md)
+* [开发文档](docs/dev.md)
 * [更新日志](updatelogs/summary.md)
 * [插件市场](market/summary.md)
     * [X Studio 工程文件](market/plugin-svip.md)

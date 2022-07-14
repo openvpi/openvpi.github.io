@@ -9,14 +9,16 @@
 
 <center>
     <img src="assets/ui-themes.png">
-    <br>
-    <a style="color:orange; display: inline-block; color: #666; padding: 2px;">
+    <br/>
+    <a style="color:orange; display: inline-block; color: #999; padding: 2px;">
         基于 Material Design 构建的用户界面，简洁美观，响应流畅
     </a>
 </center>
 <br/>
 
 <center><a href="downloads/summary.md">下载中心</a>&emsp;&emsp;&emsp;<a href="license.md">开源声明</a></center>
+
+<center><a href="https://jq.qq.com/?_wv=1027&k=CYQ6DAuH">通知/反馈/交流QQ群：687772360</a></center>
 
 ## 插件架构，伸缩自如
 
@@ -28,8 +30,8 @@ OpenSVIP 是一个插件式的松耦合工程转换平台。每个插件均代�
 
 <center>
     <img style="width: 50%;" src="assets/plugin-selection.png">
-    <br>
-    <div style="color:orange; display: inline-block; color: #666; padding: 2px;">
+    <br/>
+    <div style="color:orange; display: inline-block; color: #999; padding: 2px;">
         众多格式可供选择
     </div>
 </center>
@@ -37,11 +39,12 @@ OpenSVIP 是一个插件式的松耦合工程转换平台。每个插件均代�
 
 <center>
     <img style="width: 50%;" src="assets/plugin-details.png">
-    <br>
-    <div style="color:orange; display: inline-block; color: #666; padding: 2px;">
+    <br/>
+    <div style="color:orange; display: inline-block; color: #999; padding: 2px;">
         安装后的插件面板
     </div>
 </center>
+
 ## 所有数据，打包带走
 
 > 你是否有很多工程文件放不下？做调校师要潇洒一点。喜欢某一家的技术，未必要用它的编辑器的。你喜欢一个引擎，未必一定要从头开始。
@@ -50,11 +53,20 @@ OpenSVIP 是一个插件式的松耦合工程转换平台。每个插件均代�
 
 <center>
     <img src="assets/param-display.png">
-    <br>
-    <div style="color:orange; display: inline-block; color: #666; padding: 2px;">
+    <br/>
+    <div style="color:orange; display: inline-block; color: #999; padding: 2px;">
         转换效果展示（从上到下依次为 X Studio、Synthesizer V Studio、ACE Studio、歌叽歌叽）
     </div>
 </center>
+<br/>
+
+<center>
+    <iframe src="//player.bilibili.com/player.html?aid=428280053&bvid=BV13G411s71C&cid=768733012&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 800px; height: 450px; max-width: 100%;"></iframe>
+    <div style="color:orange; display: inline-block; color: #999; padding: 2px;">
+        在 bilibili 上体验我们的转换效果
+    </div>
+</center>
+
 ## 丰富选项，高度定制
 
 在框架与插件的开发过程中，我们充分考虑了所有水平层次用户的需求，以及从无参、微参到全参等不同完成度的工程文件的转换场景。纯新手小白？熟练调校师？技术发烧友？所有人都可以找到适合自己的转换方案。
@@ -63,8 +75,8 @@ OpenSVIP 是一个插件式的松耦合工程转换平台。每个插件均代�
 
 <center>
     <img style="width: 50%;" src="assets/options.png">
-    <br>
-    <div style="color:orange; display: inline-block; color: #666; padding: 2px;">
+    <br/>
+    <div style="color:orange; display: inline-block; color: #999; padding: 2px;">
         高度定制化的转换选项
     </div>
 </center>

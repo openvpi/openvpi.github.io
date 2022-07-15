@@ -6,4 +6,4 @@ Items = [
     "修复特定情况下曲速转换错误的问题",
 ]
 Epilogue = ""
-DownloadLink = "https://openvpi.github.io/downloads/opensvip_plugin_midi_0.7.1.zip"
+DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/midi/opensvip_plugin_midi_0.7.1.zip"

@@ -16,7 +16,15 @@
 </center>
 <br/>
 
-<center><a href="downloads/summary.md">下载中心</a>&emsp;&emsp;&emsp;<a href="license.md">开源声明</a></center>
+<center>
+    <a href="docs/guide.md">用户指南</a>
+    &emsp;&emsp;
+    <a href="docs/faq.md">常见问题</a>
+    &emsp;&emsp;
+    <a href="downloads/summary.md">下载中心</a>
+    &emsp;&emsp;
+    <a href="license.md">开源声明</a>
+</center>
 
 <center><a href="https://jq.qq.com/?_wv=1027&k=CYQ6DAuH">通知/反馈/交流QQ群：687772360</a></center>
 

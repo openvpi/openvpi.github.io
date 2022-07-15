@@ -21,7 +21,7 @@
     &emsp;&emsp;
     <a href="docs/faq.md">常见问题</a>
     &emsp;&emsp;
-    <a href="downloads/summary.md">下载中心</a>
+    <a href="downloads.md">下载中心</a>
     &emsp;&emsp;
     <a href="license.md">开源声明</a>
 </center>

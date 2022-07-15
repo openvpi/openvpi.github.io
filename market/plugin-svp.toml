@@ -6,4 +6,4 @@ Items = [
     "修复了部分 svp 工程存在负坐标音符导致转换失败的 bug",
 ]
 Epilogue = ""
-DownloadLink = "https://openvpi.github.io/downloads/opensvip_plugin_synthv_1.8.3.zip"
+DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/svp/opensvip_plugin_synthv_1.8.3.zip"

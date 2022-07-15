@@ -26,7 +26,7 @@ In case of conflict between this statement and the GPL-3.0 (except for the addit
 
 ## 下载链接
 
-阅读并同意以上条款内容后，请[点击此处](https://openvpi.github.io/downloads/opensvip_plugin_ace_0.5.0.zip)下载本插件。
+阅读并同意以上条款内容后，请[点击此处](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/ace/opensvip_plugin_ace_0.5.0.zip)下载本插件。
 
 ## 更新日志
 

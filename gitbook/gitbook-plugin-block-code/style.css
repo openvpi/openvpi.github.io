@@ -1,0 +1,60 @@
+
+:root {
+	--button-color: #c1c7cd;
+	--button-color-hover: #c1c7cd;
+	--button-bg: transparent;
+	--button-bg-hover: transparent;
+	--console-mark: '>';
+}
+
+#pbc-copy-text {
+	position: fixed;
+	width: 0;
+	height: 0;
+	top: -1000px;
+}
+
+.pbc-code-wrapper {
+	position: relative;
+}
+
+.pbc-code-wrapper i {
+	position: absolute;
+	padding: 3px;
+	right: 1em;
+	top: 1em;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: var(--button-bg);
+	border-radius: 2px;
+	color: var(--button-color);
+	transition: background 150ms;
+	cursor: pointer;
+}
+
+.pbc-code-wrapper i:hover {
+	background-color: var(--button-bg-hover);
+	color: var(--button-color-hover);
+}
+
+.pbc-code-wrapper pre {
+	background: #f7f8f9;
+	border-radius: 3px;
+	counter-reset: line;
+	font-size: 15px;
+}
+
+.pbc-code-wrapper pre > code > span.pbc-code-line.pbc-number::before {
+	counter-increment: line;
+	color: #c1c7cd;
+	content: counter(line);
+	display: inline-block;
+	font-size: 12px;
+	margin-right: 1.5em;
+	width: 1em;
+}
+
+.pbc-code-wrapper pre > code > span.pbc-code-line.pbc-console.pbc-number::before {
+	content: var(--console-mark);
+	counter-increment: none;
+}

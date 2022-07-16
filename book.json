@@ -17,12 +17,12 @@
     "intopic-toc",
     "tbfed-pagefooter",
     "back-to-top-button",
-    "expandable-chapters",
+    "chapter-fold",
     "hide-element",
     "custom-favicon",
     "flexible-alerts",
     "-highlight", "prism", "prism-themes",
-    "code"
+    "block-code"
   ],
 
   "pluginsConfig": {
@@ -32,7 +32,8 @@
 
     "intopic-toc": {
       "label": "目录",
-      "isCollapsed": false
+      "isCollapsed": true,
+      "maxDepth": 3
     },
 
     "tbfed-pagefooter": {

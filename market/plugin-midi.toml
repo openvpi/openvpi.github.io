@@ -1,9 +1,12 @@
-Version = "0.7.1"
-RequiredFrameworkVersion = "1.0.0"
-Date = "2022-07-11"
+Version = "0.8.0"
+RequiredFrameworkVersion = "1.3.0"
+Date = "2022-07-17"
 Prologue = ""
 Items = [
-    "修复特定情况下曲速转换错误的问题",
+    "注意：此版本需要框架版本为1.3.0及以上才能正常使用。请在 OpenSVIP 转换器顶部的菜单栏>帮助>关于 OpenSVIP 查看是否满足条件，如果不满足，请更新转换器。",
+    "新增导入 MIDI 时重复音符的检测。",
+    "改用 OpenSVIP 框架的汉字转拼音方案，转换更加准确。同时新增“使用旧版的汉字转拼音方案”的选项，以便在两种汉字转拼音方案之间切换。",
+    "导入歌词不再作为实验性选项。"
 ]
 Epilogue = ""
-DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/midi/opensvip_plugin_midi_0.7.1.zip"
+DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/midi/opensvip_plugin_midi_0.8.0.zip"

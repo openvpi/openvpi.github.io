@@ -2,9 +2,9 @@
 
 适用格式：ACE Studio 工程文件 (*.acep)
 
-版本：0.5.0
+版本：0.6.0
 
-最后更新日期：2022.07.12
+最后更新日期：2022.07.21
 
 作者：[YQ之神](https://space.bilibili.com/102844209)
 
@@ -29,6 +29,11 @@ In case of conflict between this statement and the GPL-3.0 (except for the addit
 阅读并同意以上条款内容后，请[点击此处](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/ace/opensvip_plugin_ace_0.5.0.zip)下载本插件。
 
 ## 更新日志
+
+#### v0.6.0 (2022.07.21)
+
+- 支持作为输入端（但暂不支持转换伴奏偏移和除音高外的其他参数）
+- 由于 ACE Studio 已修复相关 bug，因此移除了 “转换伴奏信息” 的输出选项
 
 #### v0.5.0 (2022.07.12)
 

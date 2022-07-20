@@ -28,6 +28,10 @@ In case of conflict between this statement and the GPL-3.0 (except for the addit
 
 阅读并同意以上条款内容后，请[点击此处](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/ace/opensvip_plugin_ace_0.5.0.zip)下载本插件。
 
+> **[!WARNING]**
+>
+> 请注意，此插件目前仅支持作为输出端（将其他格式工程转换为 .acep 格式），不支持作为输入端（将 .acep 格式转换为其他格式）。
+
 ## 更新日志
 
 #### v0.5.0 (2022.07.12)

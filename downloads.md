@@ -33,7 +33,6 @@ isTocVisible: false
 |  json  |  OpenSVIP Model 文件 (*.json)  |    [YQ之神](https://space.bilibili.com/102844209)     | 1.0.0 |  2022.04.22  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/json/opensvip_plugin_jsonsvip_1.0.0.zip) |
 |  lrc   |      LRC 歌词文件 (*.lrc)      | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 0.0.1 |  2022.07.05  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/lrc/opensvip_plugin_lrc_0.0.1.zip) |
 |  ace   |  ACE Studio 工程文件 (*.acep)  |    [YQ之神](https://space.bilibili.com/102844209)     | 0.6.1 |  2022.07.21  |            [查看许可证](../market/plugin-ace.md)             |
-
 安装方式：在转换器菜单栏中点击“转换>安装插件”，选择相应的插件压缩包，随后根据指引操作。（请勿直接解压插件压缩包！）
 
 > **[!NOTE]**

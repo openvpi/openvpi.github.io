@@ -1,9 +1,9 @@
-Version = "1.7.1"
+Version = "1.7.3"
 RequiredFrameworkVersion = "1.3.0"
-Date = "2022-07-02"
+Date = "2022-07-21"
 Prologue = ""
 Items = [
-    "输出选项的默认歌手新增“超越AI”的选项",
+    "新增导入歌叽歌叽工程时移除歌词中的空白字符",
 ]
 Epilogue = ""
-DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/gj/opensvip_plugin_gjgj_1.7.1.zip"
+DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/gj/opensvip_plugin_gjgj_1.7.3.zip"

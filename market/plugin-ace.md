@@ -2,7 +2,7 @@
 
 适用格式：ACE Studio 工程文件 (*.acep)
 
-版本：0.6.0
+版本：0.6.1
 
 最后更新日期：2022.07.21
 
@@ -26,13 +26,18 @@ In case of conflict between this statement and the GPL-3.0 (except for the addit
 
 ## 下载链接
 
-阅读并同意以上条款内容后，请[点击此处](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/ace/opensvip_plugin_ace_0.5.0.zip)下载本插件。
+阅读并同意以上条款内容后，请[点击此处](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/ace/opensvip_plugin_ace_0.6.1.zip)下载本插件。
 
 > **[!WARNING]**
 >
 > 请注意，此插件目前仅支持作为输出端（将其他格式工程转换为 .acep 格式），不支持作为输入端（将 .acep 格式转换为其他格式）。
 
 ## 更新日志
+
+#### v0.6.1 (2022.07.21)
+
+- 添加 “保留全部发音信息” 选项，用于控制是否保留 .acep 文件中冗余的发音信息
+- 修复少数情况下文件解码失败的 bug
 
 #### v0.6.0 (2022.07.21)
 

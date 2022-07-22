@@ -30,7 +30,7 @@ In case of conflict between this statement and the GPL-3.0 (except for the addit
 
 > **[!NOTE]**
 >
-> 请注意，此插件作为输入端（即将 .acep 文件转换为其他格式）时，暂不支持转换伴奏偏移和除音高外的其他参数。
+> 请注意，此插件作为输入端（即将 .acep 文件转换为其他格式）时，暂不支持转换伴奏偏移。
 
 ## 更新日志
 

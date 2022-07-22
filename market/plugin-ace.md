@@ -53,3 +53,4 @@ In case of conflict between this statement and the GPL-3.0 (except for the addit
 #### v0.5.0 (2022.07.12)
 
 - 添加许可证信息并正式公开
+

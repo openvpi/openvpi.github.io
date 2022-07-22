@@ -1,0 +1,9 @@
+Version = "0.0.1"
+RequiredFrameworkVersion = "1.0.0"
+Date = "2022-07-22"
+Prologue = "首次发布"
+Items = [
+
+]
+Epilogue = ""
+DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/srt/opensvip_plugin_srt_0.0.1.zip"

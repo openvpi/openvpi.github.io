@@ -2,9 +2,9 @@
 
 适用格式：ACE Studio 工程文件 (*.acep)
 
-版本：0.6.1
+版本：0.7.0
 
-最后更新日期：2022.07.21
+最后更新日期：2022.07.22
 
 作者：[YQ之神](https://space.bilibili.com/102844209)
 
@@ -26,13 +26,19 @@ In case of conflict between this statement and the GPL-3.0 (except for the addit
 
 ## 下载链接
 
-阅读并同意以上条款内容后，请[点击此处](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/ace/opensvip_plugin_ace_0.6.1.zip)下载本插件。
+阅读并同意以上条款内容后，请[点击此处](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/ace/opensvip_plugin_ace_0.7.0.zip)下载本插件。
 
 > **[!NOTE]**
 >
 > 请注意，此插件作为输入端（即将 .acep 文件转换为其他格式）时，暂不支持转换伴奏偏移和除音高外的其他参数。
 
 ## 更新日志
+
+#### v0.7.0 (2022.07.21)
+
+- 支持导入气声、张力、力度、共振峰参数
+- 新增三个选项控制张力与力度的导入模式
+- 修复了不同段音高曲线之间没有被正确切断的 bug
 
 #### v0.6.1 (2022.07.21)
 

@@ -34,7 +34,10 @@ isTocVisible: false
 |  ustx  |   OpenUTAU工程文件 (*.ustx)    |  [Oxygen Dioxide](https://github.com/oxygen-dioxide)  | 0.0.2 |  2022.07.21  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/ustx/opensvip_plugin_ustx_0.0.2.zip) |
 |  vog   | Project Vogen 工程文件 (*.vog) | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 0.4.0 |  2022.06.19  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/vog/opensvip_plugin_vogen_0.4.0.zip) |
 |  y77   |     元七七工程文件 (*.y77)     | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 1.0.0 |  2022.05.04  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/y77/opensvip_plugin_y77_1.0.0.zip) |
+
 安装方式：在转换器菜单栏中点击“转换>安装插件”，选择相应的插件压缩包，随后根据指引操作。（请勿直接解压插件压缩包！）
+
+
 
 > **[!NOTE]**
 >

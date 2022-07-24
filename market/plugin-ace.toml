@@ -1,11 +1,9 @@
-Version = "0.7.0"
+Version = "0.7.1"
 RequiredFrameworkVersion = "1.3.0"
-Date = "2022-07-22"
+Date = "2022-07-24"
 Prologue = ""
 Items = [
-    "支持导入气声、张力、力度、共振峰参数",
-    "新增三个选项控制张力与力度的导入模式",
-    "修复了不同段音高曲线之间没有被正确切断的 bug",
+    "修复了当音符靠近第一小节开头时可能转换失败的 bug",
 ]
 Epilogue = ""
-DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/ace/opensvip_plugin_ace_0.7.0.zip"
+DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/ace/opensvip_plugin_ace_0.7.1.zip"

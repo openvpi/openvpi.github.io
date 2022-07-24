@@ -8,6 +8,8 @@
 
 作者：[Oxygen Dioxide](https://github.com/oxygen-dioxide/opensvip/issues)
 
+[下载这个插件](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/ustx/opensvip_plugin_ustx_0.0.2.zip)  |  [从Github下载（备用）](https://github.com/oxygen-dioxide/opensvip/releases/download/ustx-v0.0.2/opensvip_plugin_ustx_0.0.2.zip)
+
 如果你发现了bug，请在[我的Github仓库](https://github.com/oxygen-dioxide/opensvip/issues)提出反馈。
 
 -----

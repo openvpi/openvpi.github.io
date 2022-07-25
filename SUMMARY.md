@@ -15,6 +15,7 @@
     * [OpenSVIP Model 文件](market/plugin-json.md)
     * [LRC 歌词文件](market/plugin-lrc.md)
     * [ACE Studio 工程文件](market/plugin-ace.md)
+    * [SRT 字幕文件](market/plugin-srt.md)
 * [下载中心](downloads.md)
 * [开源声明](license.md)
 

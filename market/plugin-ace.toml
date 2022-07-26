@@ -1,9 +1,9 @@
-Version = "0.7.1"
+Version = "0.8.0"
 RequiredFrameworkVersion = "1.3.0"
-Date = "2022-07-24"
+Date = "2022-07-26"
 Prologue = ""
 Items = [
-    "修复了当音符靠近第一小节开头时可能转换失败的 bug",
+    "支持将气声、张力、力度实参进行 Min-Max 标准化后作为相对值导入，并提供选项控制动态比例",
 ]
-Epilogue = ""
-DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/ace/opensvip_plugin_ace_0.7.1.zip"
+Epilogue = "请注意：实参与相对值（包络）的概念是不同的，转换时请仔细阅读对应的选项说明，并谨慎调整选项值，否则可能造成十分极端的效果。"
+DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/ace/opensvip_plugin_ace_0.8.0.zip"

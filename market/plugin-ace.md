@@ -2,9 +2,9 @@
 
 适用格式：ACE Studio 工程文件 (*.acep)
 
-版本：0.7.1
+版本：0.8.0
 
-最后更新日期：2022.07.22
+最后更新日期：2022.07.26
 
 作者：[YQ之神](https://space.bilibili.com/102844209)
 
@@ -26,15 +26,20 @@ In case of conflict between this statement and the GPL-3.0 (except for the addit
 
 ## 下载链接
 
-阅读并同意以上条款内容后，请[点击此处](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/ace/opensvip_plugin_ace_0.7.1.zip)下载本插件。
+阅读并同意以上条款内容后，请[点击此处](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/ace/opensvip_plugin_ace_0.8.0.zip)下载本插件。
 
 > **[!NOTE]**
 >
 > 请注意，此插件作为输入端（即将 .acep 文件转换为其他格式）时，暂不支持转换伴奏偏移。
 >
-> 目前也暂不支持读取 .acep 文件中气声、张力、力度的实参，因为其他平台没有相对应的机制。
 
 ## 更新日志
+
+#### v0.8.0 (2022.07.26)
+
+- 支持将气声、张力、力度实参进行 Min-Max 标准化后作为相对值导入，并提供选项控制动态比例
+
+请注意：实参与相对值（包络）的概念是不同的，转换时请仔细阅读对应的选项说明，并谨慎调整选项值，否则可能造成十分极端的效果。
 
 #### v0.7.1 (2022.07.24)
 

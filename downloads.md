@@ -46,3 +46,11 @@ isTocVisible: false
 >
 > 若转换时发生错误，将对应的插件回退至上一个版本可能可以暂时解决问题。同时，建议使用上面的联系方式向插件作者反馈情况，以便及时修复。要查看各个版本的更新日志，请参阅[插件市场](market/summary.md)分栏下对应插件的说明文档。
 
+
+
+## 下载数据统计
+
+<iframe src="https://openvpi.github.io/statistics/converter.html" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 800px; height: 450px; max-width: 100%;"></iframe>
+
+<iframe src="https://openvpi.github.io/statistics/plugins.html" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 800px; height: 450px; max-width: 100%;"></iframe>
+

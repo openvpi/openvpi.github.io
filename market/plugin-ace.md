@@ -2,9 +2,9 @@
 
 适用格式：ACE Studio 工程文件 (*.acep)
 
-版本：0.8.0
+版本：0.8.1
 
-最后更新日期：2022.07.26
+最后更新日期：2022.07.27
 
 作者：[YQ之神](https://space.bilibili.com/102844209)
 
@@ -34,6 +34,11 @@ In case of conflict between this statement and the GPL-3.0 (except for the addit
 >
 
 ## 更新日志
+
+#### v0.8.1 (2022.07.27)
+
+- 修复了力度实参无法被导入的 bug
+- 修复了张力实参导入时缩放比例异常的 bug
 
 #### v0.8.0 (2022.07.26)
 

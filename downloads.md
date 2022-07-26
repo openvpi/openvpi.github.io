@@ -24,7 +24,7 @@ isTocVisible: false
 
 | 标识符 |            适用格式            |                         作者                          | 版本  | 最后更新日期 |                           下载链接                           |
 | :----: | :----------------------------: | :---------------------------------------------------: | :---: | :----------: | :----------------------------------------------------------: |
-|  ace   |  ACE Studio 工程文件 (*.acep)  |    [YQ之神](https://space.bilibili.com/102844209)     | 0.8.0 |  2022.07.26  |              [查看许可证](market/plugin-ace.md)              |
+|  ace   |  ACE Studio 工程文件 (*.acep)  |    [YQ之神](https://space.bilibili.com/102844209)     | 0.8.1 |  2022.07.27  |              [查看许可证](market/plugin-ace.md)              |
 |   gj   |    歌叽歌叽工程文件 (*.gj)     | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 1.7.3 |  2022.07.21  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/gj/opensvip_plugin_gjgj_1.7.3.zip) |
 |  json  |  OpenSVIP Model 文件 (*.json)  |    [YQ之神](https://space.bilibili.com/102844209)     | 1.0.0 |  2022.04.22  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/json/opensvip_plugin_jsonsvip_1.0.0.zip) |
 |  lrc   |      LRC 歌词文件 (*.lrc)      | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 0.0.1 |  2022.07.05  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/lrc/opensvip_plugin_lrc_0.0.1.zip) |

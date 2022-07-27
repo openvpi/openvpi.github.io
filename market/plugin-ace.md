@@ -2,7 +2,7 @@
 
 适用格式：ACE Studio 工程文件 (*.acep)
 
-版本：0.8.1
+版本：0.8.2
 
 最后更新日期：2022.07.27
 
@@ -34,6 +34,10 @@ In case of conflict between this statement and the GPL-3.0 (except for the addit
 >
 
 ## 更新日志
+
+#### v0.8.2 (2022.07.27)
+
+- 实参标准化选项全新改版，支持更多自定义维度，请仔细查看说明
 
 #### v0.8.1 (2022.07.27)
 
@@ -74,9 +78,10 @@ In case of conflict between this statement and the GPL-3.0 (except for the addit
 
 本插件使用和参考了以下第三方开源项目：
 
-|    开源项目     |                    许可证                     |                  相关链接                  |
-| :-------------: | :-------------------------------------------: | :----------------------------------------: |
-|  acep_decrypt   | [MIT License](https://licenses.nuget.org/MIT) | https://github.com/SoulMelody/acep_decrypt |
-| Newtonsoft.Json | [MIT License](https://licenses.nuget.org/MIT) |      https://www.newtonsoft.com/json       |
-|     NAudio      | [MIT License](https://licenses.nuget.org/MIT) |      https://github.com/naudio/NAudio      |
+|    开源项目     |                            许可证                            |                  相关链接                  |
+| :-------------: | :----------------------------------------------------------: | :----------------------------------------: |
+|  acep_decrypt   |        [MIT License](https://licenses.nuget.org/MIT)         | https://github.com/SoulMelody/acep_decrypt |
+| Newtonsoft.Json |        [MIT License](https://licenses.nuget.org/MIT)         |      https://www.newtonsoft.com/json       |
+|     NAudio      |        [MIT License](https://licenses.nuget.org/MIT)         |      https://github.com/naudio/NAudio      |
+| LinqStatistics  | [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0) | https://github.com/dkackman/LinqStatistics |
 

@@ -1,9 +1,9 @@
-Version = "0.8.2"
+Version = "0.8.3"
 RequiredFrameworkVersion = "1.3.0"
-Date = "2022-07-27"
+Date = "2022-07-28"
 Prologue = ""
 Items = [
-    "实参标准化选项全新改版，支持更多自定义维度，请仔细查看说明",
+    "(0.8.2) 实参标准化选项全新改版，支持更多自定义维度",
+    "修复了参数合并叠加后数值异常的 bug",
 ]
-Epilogue = "请注意：实参与相对值（包络）的概念是不同的，转换时请仔细阅读对应的选项说明，并谨慎调整选项值，否则可能造成十分极端的效果。"
-DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/ace/opensvip_plugin_ace_0.8.2.zip"
+DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/ace/opensvip_plugin_ace_0.8.3.zip"

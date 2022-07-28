@@ -2,9 +2,9 @@
 
 适用格式：ACE Studio 工程文件 (*.acep)
 
-版本：0.8.2
+版本：0.8.3
 
-最后更新日期：2022.07.27
+最后更新日期：2022.07.28
 
 作者：[YQ之神](https://space.bilibili.com/102844209)
 
@@ -34,6 +34,10 @@ In case of conflict between this statement and the GPL-3.0 (except for the addit
 >
 
 ## 更新日志
+
+#### v0.8.3 (2022.07.28)
+
+- 修复了参数合并叠加后数值异常的 bug
 
 #### v0.8.2 (2022.07.27)
 

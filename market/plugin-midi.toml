@@ -1,9 +1,9 @@
-Version = "0.8.2"
+Version = "0.8.3"
 RequiredFrameworkVersion = "1.3.0"
-Date = "2022-08-03"
+Date = "2022-08-22"
 Prologue = ""
 Items = [
-    "修复特定情况下导入歌词和曲速错位的问题"
+    "修复导入曲速为120的文件时曲速丢失的问题"
 ]
 Epilogue = ""
-DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/midi/opensvip_plugin_midi_0.8.2.zip"
+DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/midi/opensvip_plugin_midi_0.8.3.zip"

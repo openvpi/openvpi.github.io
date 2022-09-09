@@ -1,9 +1,9 @@
-Version = "0.4.0"
+Version = "0.4.1"
 RequiredFrameworkVersion = "1.0.0"
-Date = "2022-06-19"
+Date = "2022-08-23"
 Prologue = ""
 Items = [
-    "1.支持指定歌手。",
+    "修复了含空轨道的源工程转换后 Vogen 无法打开的问题。",
 ]
 Epilogue = ""
-DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/vog/opensvip_plugin_vogen_0.4.0.zip"
+DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/vog/opensvip_plugin_vogen_0.4.1.zip"

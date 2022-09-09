@@ -25,6 +25,10 @@
 
 OpenSVIP 转换器、acep 插件作者<br>YQ之神
 
+## 下载方式
+
+此插件已停止维护，最新版本仅支持 ACE Studio **1.0.3**（已由于强制更新**无法使用**）。但您仍可点击[此处](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/ace/opensvip_plugin_ace_0.8.3.zip)下载插件。
+
 ## 更新日志
 
 #### v0.8.3 (2022.07.28)

@@ -16,6 +16,7 @@
     * [LRC 歌词文件](market/plugin-lrc.md)
     * [ACE Studio 工程文件](market/plugin-ace.md)
     * [SRT 字幕文件](market/plugin-srt.md)
+    * [X Studio 3 工程文件](market/plugin-svip3.md)
 * [下载中心](downloads.md)
 * [开源声明](license.md)
 

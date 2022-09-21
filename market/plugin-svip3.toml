@@ -1,0 +1,9 @@
+Version = "1.2.0"
+RequiredFrameworkVersion = "1.0.0"
+Date = "2022-09-21"
+Prologue = ""
+Items = [
+    "",
+]
+Epilogue = ""
+DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/svip3/opensvip_plugin_svip3_0.0.1.zip"

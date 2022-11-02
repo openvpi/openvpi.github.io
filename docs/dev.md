@@ -482,7 +482,7 @@ OpenSVIP 对外提供统一的插件发布途径，这包括：
 - 在本站插件市场发布插件说明文档、更新日志，并在下载中心提供下载链接
 - 使用腾讯云对象存储对外提供插件压缩包下载服务
 
-本站的 GitHub 仓库地址为 https://github.com/openvpi/openvpi.github.io 。
+本站的 GitHub 仓库地址为：https://github.com/openvpi/openvpi.github.io
 
 #### 5.7.1 在插件市场中添加您的插件
 

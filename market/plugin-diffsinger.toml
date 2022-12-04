@@ -1,0 +1,9 @@
+Version = "0.4.0"
+RequiredFrameworkVersion = "1.3.0"
+Date = "2022-12-04"
+Prologue = ""
+Items = [
+    "支持选择音素词典预设",
+]
+Epilogue = ""
+DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/diffsinger/opensvip_plugin_diffsinger_0.4.0.zip"

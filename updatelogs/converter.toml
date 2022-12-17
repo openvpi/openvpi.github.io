@@ -1,7 +1,8 @@
-Version = "1.4.1"
-Date = "2022-07-14"
-Prologue = "注意：转换器官网网址已更换。需要更新此版本后才可接收后续的转换器和插件更新。"
+Version = "1.4.2"
+Date = "2022-12-17"
+Prologue = "此版本包含错误修复。"
 Items = [
+    "修复了使用相对路径时可能导致工程文件被输出至错误的目录的 bug"
 ]
 Epilogue = "欢迎加入转换器反馈交流 QQ 群：687772360"
-DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/converter/opensvip_converter_1.4.1.zip"
+DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/converter/opensvip_converter_1.4.2.zip"

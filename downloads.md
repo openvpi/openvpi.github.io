@@ -10,9 +10,9 @@ isTocVisible: false
 
 ## OpenSVIP 转换器
 
-最新版本 v1.4.1：[下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/converter/opensvip_converter_1.4.1.zip)
+最新版本 v1.4.2：[下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/converter/opensvip_converter_1.4.2.zip)
 
-备用版本 v1.3.0：[下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/converter/opensvip_converter_1.3.0.zip)
+备用版本 v1.4.1：[下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/converter/opensvip_converter_1.4.1.zip)
 
 注意：仅支持 Windows 7 及以上操作系统（需要 .NET Framework 4.7.2，Windows 10+ 通常已自带）
 
@@ -31,7 +31,7 @@ isTocVisible: false
 |    lrc     |      LRC 歌词文件 (*.lrc)      | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 0.0.1 |  2022.07.05  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/lrc/opensvip_plugin_lrc_0.0.1.zip) |
 |    midi    |       MIDI 文件 (*.mid)        | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 0.8.3 |  2022.08.22  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/midi/opensvip_plugin_midi_0.8.3.zip) |
 |    srt     |      SRT 字幕文件 (*.srt)      | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 0.0.1 |  2022.07.22  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/srt/opensvip_plugin_srt_0.0.1.zip) |
-|    svip    |   X Studio 工程文件 (*.svip)   |    [YQ之神](https://space.bilibili.com/102844209)     | 1.2.0 |  2022.08.10  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/svip/opensvip_plugin_binsvip_1.2.0.zip) |
+|    svip    |   X Studio 工程文件 (*.svip)   |    [YQ之神](https://space.bilibili.com/102844209)     | 1.3.0 |  2022.12.17  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/svip/opensvip_plugin_binsvip_1.3.0.zip) |
 |   svip3    | X Studio 3 工程文件 (*.svip3)  | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 0.0.1 |  2022.09.21  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/svip3/opensvip_plugin_svip3_0.0.1.zip) |
 |    svp     | Synthesizer V 工程文件 (*.svp) |    [YQ之神](https://space.bilibili.com/102844209)     | 1.8.4 |  2022.07.25  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/svp/opensvip_plugin_synthv_1.8.4.zip) |
 |    ustx    |   OpenUTAU工程文件 (*.ustx)    |  [Oxygen Dioxide](https://github.com/oxygen-dioxide)  | 0.0.2 |  2022.07.21  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/ustx/opensvip_plugin_ustx_0.0.2.zip) |

@@ -1,11 +1,10 @@
 Version = "0.4.1"
 RequiredFrameworkVersion = "1.3.0"
-Date = "2022-12-15"
+Date = "2023-01-07"
 Prologue = ""
 Items = [
-    "1. 优化分段策略，新增分段长度选项",
-    "2. 优化尾部SP",
-    "3. 默认使用严式词典"
+    "1. 默认选择音素和音高有参",
+    "2. 音素或音高无参时，将提示用户冻结参数"
 ]
 Epilogue = ""
-DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/diffsinger/opensvip_plugin_diffsinger_0.4.1.zip"
+DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/diffsinger/opensvip_plugin_diffsinger_0.5.0.zip"

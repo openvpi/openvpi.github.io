@@ -1,0 +1,10 @@
+Version = "0.1.0"
+RequiredFrameworkVersion = "1.0.0"
+Date = "2023-02-08"
+Prologue = ""
+Items = [
+    "支持音高写入 ustx 文件",
+    "支持导入变速曲"
+]
+Epilogue = ""
+DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/ustx/opensvip_plugin_ustx_0.1.0.zip"

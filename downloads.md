@@ -25,7 +25,7 @@ isTocVisible: false
 |   标识符   |            适用格式            |                         作者                          | 版本  | 最后更新日期 |                           下载链接                           |
 | :--------: | :----------------------------: | :---------------------------------------------------: | :---: | :----------: | :----------------------------------------------------------: |
 |    ace     |  ACE Studio 工程文件 (*.acep)  |    [YQ之神](https://space.bilibili.com/102844209)     | 0.8.3 |  2022.07.28  |               [查看声明](market/plugin-ace.md)               |
-| diffsinger |   DiffSinger 参数文件(*.ds)    | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 0.7.0 |  2023.02.05  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/diffsinger/opensvip_plugin_diffsinger_0.7.0.zip) |
+| diffsinger |   DiffSinger 参数文件(*.ds)    | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 0.8.0 |  2023.02.20  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/diffsinger/opensvip_plugin_diffsinger_0.8.0.zip) |
 |     gj     |    歌叽歌叽工程文件 (*.gj)     | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 1.7.3 |  2022.07.21  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/gj/opensvip_plugin_gjgj_1.7.3.zip) |
 |    json    |  OpenSVIP Model 文件 (*.json)  |    [YQ之神](https://space.bilibili.com/102844209)     | 1.0.0 |  2022.04.22  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/json/opensvip_plugin_jsonsvip_1.0.0.zip) |
 |    lrc     |      LRC 歌词文件 (*.lrc)      | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 0.0.1 |  2022.07.05  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/lrc/opensvip_plugin_lrc_0.0.1.zip) |
@@ -34,7 +34,7 @@ isTocVisible: false
 |    svip    |   X Studio 工程文件 (*.svip)   |    [YQ之神](https://space.bilibili.com/102844209)     | 1.3.0 |  2022.12.17  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/svip/opensvip_plugin_binsvip_1.3.0.zip) |
 |   svip3    | X Studio 3 工程文件 (*.svip3)  | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 0.0.1 |  2022.09.21  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/svip3/opensvip_plugin_svip3_0.0.1.zip) |
 |    svp     | Synthesizer V 工程文件 (*.svp) |    [YQ之神](https://space.bilibili.com/102844209)     | 1.8.4 |  2022.07.25  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/svp/opensvip_plugin_synthv_1.8.4.zip) |
-|    ustx    |   OpenUTAU工程文件 (*.ustx)    |  [Oxygen Dioxide](https://github.com/oxygen-dioxide)  | 0.0.2 |  2022.07.21  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/ustx/opensvip_plugin_ustx_0.0.2.zip) |
+|    ustx    |   OpenUTAU工程文件 (*.ustx)    |  [Oxygen Dioxide](https://github.com/oxygen-dioxide)  | 0.1.0 |  2023.02.08  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/ustx/opensvip_plugin_ustx_0.1.0.zip) |
 |    vog     | Project Vogen 工程文件 (*.vog) | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 0.4.1 |  2022.08.23  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/vog/opensvip_plugin_vogen_0.4.1.zip) |
 |    y77     |     元七七工程文件 (*.y77)     | [笛鹿FlutyDeer](https://space.bilibili.com/386270936) | 1.0.0 |  2022.05.04  | [下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/y77/opensvip_plugin_y77_1.0.0.zip) |
 

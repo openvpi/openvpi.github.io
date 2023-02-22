@@ -2,9 +2,9 @@
 
 适用格式：LRC 歌词文件 (*.lrc)
 
-版本：0.0.1
+版本：0.1.0
 
-最后更新日期：2022.07.05
+最后更新日期：2023.02.22
 
 作者：[笛鹿FlutyDeer](https://space.bilibili.com/386270936)
 
@@ -60,9 +60,18 @@
 - UTF-8 BOM
 - UTF-8
 
+## 贡献者
+
+- [CrSjimo](https://github.com/CrSjimo)
+
 -----
 
 ## 更新日志
+
+#### v0.1.0 (2023.02.22)
+
+- 新增按歌词文本换行（由 [CrSjimo](https://github.com/CrSjimo) 贡献）
+- 新增自动插入空行（由 [CrSjimo](https://github.com/CrSjimo) 贡献）
 
 #### v0.0.1 (2022.07.05)
 

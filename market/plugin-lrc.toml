@@ -1,9 +1,10 @@
-Version = "0.0.1"
+Version = "0.1.0"
 RequiredFrameworkVersion = "1.0.0"
-Date = "2022-07-05"
-Prologue = "首次发布"
+Date = "2023-02-22"
+Prologue = "功能更新"
 Items = [
-
+    "新增按歌词文本换行（由 CrSjimo 贡献）",
+    "新增自动插入空行（由 CrSjimo 贡献）"
 ]
 Epilogue = ""
-DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/lrc/opensvip_plugin_lrc_0.0.1.zip"
+DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/plugins/lrc/opensvip_plugin_lrc_0.1.0.zip"

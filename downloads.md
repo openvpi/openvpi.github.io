@@ -10,7 +10,7 @@ isTocVisible: false
 
 ## OpenSVIP 转换器
 
-最新版本 v1.4.2：[下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/converter/opensvip_converter_1.4.2.zip)
+最新版本 v1.5.0：[下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/converter/opensvip_converter_1.5.0.zip)
 
 备用版本 v1.4.1：[下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/converter/opensvip_converter_1.4.1.zip)
 

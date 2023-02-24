@@ -1,8 +1,10 @@
-Version = "1.5.0"
-Date = "2023-02-22"
-Prologue = "此版本包含功能更新。"
+Version = "1.5.1"
+Date = "2023-02-25"
+Prologue = "此版本包含功能更新和错误修复。"
 Items = [
-    "新增插件更新 toast 通知提醒"
+    "修复 toast 通知版本号显示错误的问题",
+    "修复最小化后点击 toast 通知时窗口不还原的问题",
+    "转换器本体更新也将以 toast 通知提醒"
 ]
 Epilogue = "欢迎加入转换器反馈交流 QQ 群：687772360"
-DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/converter/opensvip_converter_1.5.0.zip"
+DownloadLink = "https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/converter/opensvip_converter_1.5.1.zip"

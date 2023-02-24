@@ -10,9 +10,9 @@ isTocVisible: false
 
 ## OpenSVIP 转换器
 
-最新版本 v1.5.0：[下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/converter/opensvip_converter_1.5.0.zip)
+最新版本 v1.5.1：[下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/converter/opensvip_converter_1.5.1.zip)
 
-备用版本 v1.4.1：[下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/converter/opensvip_converter_1.4.1.zip)
+备用版本 v1.4.2：[下载链接](https://openvpi-1307911855.cos.ap-beijing.myqcloud.com/converter/opensvip_converter_1.4.2.zip)
 
 注意：仅支持 Windows 7 及以上操作系统（需要 .NET Framework 4.7.2，Windows 10+ 通常已自带）
 
